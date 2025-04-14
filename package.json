@@ -12,9 +12,11 @@
     "LICENSE"
   ],
   "keywords": [
-    "error",
+    "benchmarks",
     "typescript",
-    "context"
+    "performance",
+    "benchmarking",
+    "tools"
   ],
   "author": "aFuzzyBear",
   "license": "MIT",
