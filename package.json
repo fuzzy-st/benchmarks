@@ -1,6 +1,6 @@
 {
   "name": "@fuzzy-street/benchmarks",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A Typesafe collection of benchmarking tools for TypeScript.",
   "main": "dist/main.js",
   "module": "dist/main.mjs",

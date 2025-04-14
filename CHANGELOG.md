@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/fuzzy-st/results/compare/v0.2.0...v0.3.0) (2025-04-14)
+
+
+### Bug Fixes
+
+* **main:** correct export statements for types and adaptive benchmarking ([dc132ca](https://github.com/fuzzy-st/results/commit/dc132ca2867d9d1d1971e12103918b436a7731c4))
+* **package:** update keywords to reflect accurate benchmarking terms ([20f95a0](https://github.com/fuzzy-st/results/commit/20f95a0f81ec0091f2c7adc8386accf952a7852e))
+
 ## 0.2.0 (2025-04-14)
 
 
