@@ -5,14 +5,14 @@
  */
 
 // Core functionality
-export * from '~/types';
+export type * from '~/types';
 export * from '~/core';
 
 // Statistics utilities
 export * from '~/stats-utils';
 
 // Adaptive benchmarking
-// export * from '~/adaptive-benchmarking';
+export * from '~/adaptive';
 
 // Hardware monitoring
 export * from '~/monitoring';
