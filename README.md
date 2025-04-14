@@ -1,4 +1,4 @@
-# @fuzzy-street/benchmarks
+# Benchmarks
 
 A comprehensive benchmarking framework for JavaScript/TypeScript with advanced statistical analysis, hardware monitoring, and visualization features.
 
