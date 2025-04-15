@@ -32,7 +32,6 @@
     "lint": "biome lint --fix",
     "format": "biome format --fix --write",
     "setup-hooks": "tsx setup-git-hooks.js",
-    "postinstall": "node -e \"try { require('./setup-git-hooks.js') } catch(e) { console.log('Git hooks setup skipped.') }\"",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
@@ -55,10 +54,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuzzy-st/results.git"
+    "url": "git+https://github.com/fuzzy-st/benchmarks.git"
   },
   "bugs": {
-    "url": "https://github.com/fuzzy-st/results/issues"
+    "url": "https://github.com/fuzzy-st/benchmarks/issues"
   },
-  "homepage": "https://github.com/fuzzy-st/results#readme"
+  "homepage": "https://github.com/fuzzy-st/benchmarks#readme"
 }
