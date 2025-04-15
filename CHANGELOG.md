@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.2](https://github.com/fuzzy-st/benchmarks/compare/v0.3.0...v0.3.2) (2025-04-15)
+
+
+### Bug Fixes
+
+* **main:** correct export statement syntax for types ([d5d1d26](https://github.com/fuzzy-st/benchmarks/commit/d5d1d26f07abb40ca51f8abaadc83c37cd4f99cc))
+* **package:** update repository URLs and remove postinstall script ([baf9ea3](https://github.com/fuzzy-st/benchmarks/commit/baf9ea30911782b2f9b3cad8041ceb48bb569a7a))
+
+### [0.3.1](https://github.com/fuzzy-st/benchmarks/compare/v0.3.0...v0.3.1) (2025-04-15)
+
+
+### Bug Fixes
+
+* **main:** correct export statement syntax for types ([d5d1d26](https://github.com/fuzzy-st/benchmarks/commit/d5d1d26f07abb40ca51f8abaadc83c37cd4f99cc))
+* **package:** update repository URLs and remove postinstall script ([baf9ea3](https://github.com/fuzzy-st/benchmarks/commit/baf9ea30911782b2f9b3cad8041ceb48bb569a7a))
+
 ## [0.3.0](https://github.com/fuzzy-st/results/compare/v0.2.0...v0.3.0) (2025-04-14)
 
 
